@@ -20,7 +20,7 @@ options:
   DIFFICULTY: normal
   HARDCORE: false
   MAX_PLAYERS: 10
-  WHITELIST: ""
+ # WHITELIST: ""
   OPS: ""
   SPAWN_PROTECTION: 0
   PVP: true
@@ -45,7 +45,7 @@ schema:
   DIFFICULTY: list(peaceful|easy|normal|hard)
   HARDCORE: bool
   MAX_PLAYERS: int
-  WHITELIST: str
+  #WHITELIST: str
   OPS: str
   SPAWN_PROTECTION: int
   PVP: bool
